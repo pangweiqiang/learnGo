@@ -3,12 +3,13 @@ import(
 	"fmt"
 	"unsafe"
 )
+/**
 func main()  {
 	//hash1()
 	//demo()
 	//getKeyValArr()
 	arrDemo()
-}
+}**/
 func hash1(){
 	var h map[int]string = map[int]string{
 		1:"abc",
