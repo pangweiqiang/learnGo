@@ -14,7 +14,7 @@ func main() {
    arr_copy()
 }**/
 
-func test(){
+func test1(){
    var k [5] int = [5]int{1,2,3,4,5}
    //var p [5] int
    var p = k
